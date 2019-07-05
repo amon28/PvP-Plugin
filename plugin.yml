@@ -1,0 +1,9 @@
+name: PvP
+version: 1.0
+main: PvP\Main
+api: [3.0.0]
+author: Amon
+
+commands:
+ pvp:
+  description: "Join pvp que"
